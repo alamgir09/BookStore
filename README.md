@@ -1,2 +1,1 @@
-# BookStore
-Book store project created to familiarize with the MERN stack, and is my first foray into a node.js backend
+This project was created to better understand and gain familiarity with the MERN stack, and my foray into backend using node.js, express, mongoose, and MongoDB
