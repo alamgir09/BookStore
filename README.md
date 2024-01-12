@@ -1,1 +1,1 @@
-This project was created to better understand and gain familiarity with the MERN stack, and my foray into backend using node.js, express, mongoose, and MongoDB
+This project was created to better understand and gain familiarity with the MERN stack, and my foray into backend using node.js, express, mongoose, and MongoDB. Can potentially turn this into a personal bookshelf that I can show to friends and family of books read, want to read, and further categories.
